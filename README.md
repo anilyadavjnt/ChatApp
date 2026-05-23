@@ -1,19 +1,19 @@
 A modern real-time chat application for iOS built using Swift + UIKit.
 This project includes text messaging, voice/video calling UI, authentication flow, reusable components, and clean iOS architecture.
 
-🚀 Features 
-Real-time Text Chat 
-Voice Calling UI 
-Video Calling UI 
-Authentication Screens 
-Modern UIKit Design 
-Reusable UI Components 
-MVVM / Clean Architecture 
-API Integration Ready 
-Responsive AutoLayout 
-Custom UITableView & UICollectionView 
-Dark Mode Support 
-Smooth Animations 
+🚀 Features
+* Real-time Text Chat
+* Voice Calling UI
+Video Calling UI
+Authentication Screens
+Modern UIKit Design
+Reusable UI Components
+MVVM / Clean Architecture
+API Integration Ready
+Responsive AutoLayout
+Custom UITableView & UICollectionView
+Dark Mode Support
+Smooth Animations
 
 🛠 Tech Stack
 Swift
