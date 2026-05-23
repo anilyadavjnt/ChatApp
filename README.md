@@ -36,5 +36,5 @@ Video Call
 Profile Screen
 Settings Screen
 
-<img width="375" height="2556" alt="Simulator Screenshot - iPhone 14 Pro - 2026-05-16 at 17 39 57" src="https://github.com/user-attachments/assets/43f0ba8b-d16d-4edb-b576-d649f58f599e" />
-<img width="375" height="2556" alt="Simulator Screenshot - iPhone 14 Pro - 2026-05-16 at 14 09 02" src="https://github.com/user-attachments/assets/c1b3da85-aec4-4891-8af2-4a6ca15cd988" />
+<img width="375" height="667" alt="Simulator Screenshot - iPhone 14 Pro - 2026-05-16 at 17 39 57" src="https://github.com/user-attachments/assets/43f0ba8b-d16d-4edb-b576-d649f58f599e" />
+<img width="375" height="667" alt="Simulator Screenshot - iPhone 14 Pro - 2026-05-16 at 14 09 02" src="https://github.com/user-attachments/assets/c1b3da85-aec4-4891-8af2-4a6ca15cd988" />
