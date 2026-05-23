@@ -44,8 +44,8 @@ This project includes text messaging, voice/video calling UI, authentication flo
 
 <img width="375" height="667" alt="Simulator Screenshot - iPhone 14 Pro - 2026-05-16 at 17 39 57" src="https://github.com/user-attachments/assets/43f0ba8b-d16d-4edb-b576-d649f58f599e" />
 
-Anil Yadav
-iOS Developer
-LinkedIn: www.linkedin.com/in/anilyadavjnt
-Portfolio: https://portfolio-anilyadavjnt.vercel.app
-Email: anilyadavjnt@gmail.com
+Anil Yadav ( iOS Developer )
+
+* LinkedIn: www.linkedin.com/in/anilyadavjnt
+* Portfolio: https://portfolio-anilyadavjnt.vercel.app
+* Email: anilyadavjnt@gmail.com
