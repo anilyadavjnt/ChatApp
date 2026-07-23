@@ -1,4 +1,4 @@
-
+//
 A modern real-time chat application for iOS built using Swift + UIKit.
 This project includes text messaging, voice/video calling UI, authentication flow, reusable components, and clean iOS architecture.
 
