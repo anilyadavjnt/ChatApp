@@ -19,7 +19,7 @@ This project includes text messaging, voice/video calling UI, authentication flo
 * Dark Mode Support
 * Smooth Animations
 
-🛠 Tech Stack
+🛠 Tech Stack:-
 
 * Swift
 * UIKit
