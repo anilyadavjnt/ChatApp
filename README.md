@@ -4,7 +4,7 @@ This project includes text messaging, voice/video calling UI, authentication flo
 
 <img width="375" height="667" alt="Simulator Screenshot - iPhone 14 Pro - 2026-05-16 at 14 09 02" src="https://github.com/user-attachments/assets/c1b3da85-aec4-4891-8af2-4a6ca15cd988" />
 
-🚀 Features
+🚀 Features:-
 
 * Real-time Text Chat
 * Voice Calling UI
