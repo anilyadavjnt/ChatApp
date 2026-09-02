@@ -31,7 +31,7 @@ This project includes text messaging, voice/video calling UI, authentication flo
 * Firebase (Optional)
 * WebRTC (Optional)
 
-📱 Screens
+📱 Screens:-
 
 * Splash Screen
 * Onboarding
