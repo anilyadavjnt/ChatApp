@@ -49,17 +49,21 @@
 <img width="300" height="550" alt="Simulator Screenshot - iPhone 14 Pro - 2026-05-24 at 14 37 46" src="https://github.com/user-attachments/assets/cc11f6a4-fa06-41b5-a97e-6787d62016bf" />
 
 
-## 👨‍💻 Developer
+## 👨‍💻 Author
 
 **Anil Kumar Yadav**
-iOS Developer | Swift | UIKit | SwiftUI
+iOS Developer | Swift | UIKit
 
-* GitHub: https://github.com/anilyadavjnt
-* LinkedIn: https://linkedin.com/in/anilyadavjnt
+If you like this project, ⭐ **star the repository** and feel free to share your feedback!
 
-## 📄 License
+Anil Yadav ( iOS Developer )
 
-This project is available for learning and portfolio purposes. Add a license file if you intend to distribute it under specific terms.
+* LinkedIn: www.linkedin.com/in/anilyadavjnt
+* Portfolio: https://portfolio-anilyadavjnt.vercel.app
+* Email: anilyadavjnt@gmail.com
+
+  
+
 
 
 
